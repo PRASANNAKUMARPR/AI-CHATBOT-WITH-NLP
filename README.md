@@ -112,3 +112,5 @@ This Python task bridges two essential aspects of modern programming — data re
 
 #OUTPUT
 
+
+![Image](https://github.com/user-attachments/assets/36b265c7-55e3-4cd5-9b18-8f325c90aa43)
